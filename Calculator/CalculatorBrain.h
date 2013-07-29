@@ -16,6 +16,7 @@
 @property (readonly) id program;
 
 //test git
+//test mac
 + (double)runProgram:(id)program;
 + (NSString *)descriptionOfProgram:(id)program;
 
