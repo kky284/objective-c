@@ -45,7 +45,6 @@
 {
     double result = 0;
     
-    int test =0;
     id topOfStack = [stack lastObject];
     if (topOfStack) [stack removeLastObject];
     
