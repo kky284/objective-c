@@ -17,6 +17,7 @@
 
 //test git
 //test mac
+//test myMacbook
 + (double)runProgram:(id)program;
 + (NSString *)descriptionOfProgram:(id)program;
 
